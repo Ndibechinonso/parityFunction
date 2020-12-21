@@ -1,0 +1,28 @@
+.list {
+  list-style-type: none;
+}
+.workfield {
+  position: relative;
+  margin-left: 40%;
+  margin-top: 20%;
+}
+#button {
+  color: white;
+  background-color: blue;
+  margin-left: 0.5rem;
+  border-color: blue;
+}
+
+#button2 {
+  color: white;
+  background-color: red;
+  margin-left: 0.5rem;
+  border-color: red;
+}
+
+#button3 {
+  color: white;
+  background-color: green;
+  margin-left: 0.5rem;
+  border-color: green;
+}
